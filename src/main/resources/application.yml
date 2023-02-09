@@ -4,4 +4,4 @@ server:
 spring:
   data:
     mongodb:
-      uri: mongodb://localhost:27017/databaseName
+      uri: mongodb://localhost:27017/hotel-service
